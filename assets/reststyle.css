@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 10;
+}
+.card{
+    padding: 10px 20px 30px;
+    border-radius: 200;
+    border-color: blue;
+}
+
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+.table{
+    border-color: blue;
+    border-width: 30px;
+}
+.form-group{
+    align-items: center;
+}
